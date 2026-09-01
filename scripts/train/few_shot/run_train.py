@@ -30,17 +30,28 @@ parser.add_argument('--data.test_episodes', type=int, default=100, metavar='NTES
 parser.add_argument('--data.trainval', action='store_true', help="run in train+validation mode (default: False)")
 parser.add_argument('--data.sequential', action='store_true', help="use sequential sampler instead of episodic (default: False)")
 parser.add_argument('--data.cuda', action='store_true', help="run in CUDA mode (default: False)")
+parser.add_argument('--data.compute_quality', action='store_true',
+                    help="compute per-support ARNIQA quality scores (iceice dataset only); "
+                         "required by qa_protonet_conv (default: False)")
 
 # model args
 default_model_name = 'protonet_conv'
 parser.add_argument('--model.model_name', type=str, default=default_model_name, metavar='MODELNAME',
-                    help="model name (default: {:s})".format(default_model_name))
+                    help="model name: 'protonet_conv' (standard mean prototype) or "
+                         "'qa_protonet_conv' (quality/typicality-weighted prototype) "
+                         "(default: {:s})".format(default_model_name))
 parser.add_argument('--model.x_dim', type=str, default='3,84,84', metavar='XDIM',
                     help="dimensionality of input images (default: '3,84,84')")
 parser.add_argument('--model.hid_dim', type=int, default=64, metavar='HIDDIM',
                     help="dimensionality of hidden layers (default: 64)")
 parser.add_argument('--model.z_dim', type=int, default=64, metavar='ZDIM',
                     help="dimensionality of input images (default: 64)")
+parser.add_argument('--model.alpha', type=float, default=0.5, metavar='ALPHA',
+                    help="qa_protonet_conv only: fusion weight between quality score and "
+                         "feature-space typicality, 0=typicality only, 1=quality only (default: 0.5)")
+parser.add_argument('--model.tau', type=float, default=1.0, metavar='TAU',
+                    help="qa_protonet_conv only: softmax temperature over the fused "
+                         "support weights, lower = more peaked (default: 1.0)")
 
 # train args
 parser.add_argument('--train.epochs', type=int, default=100, metavar='NEPOCHS',

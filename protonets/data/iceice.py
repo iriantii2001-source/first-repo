@@ -33,7 +33,7 @@ def convert_tensor(key, transform, d):
     d[key] = transform(d[key])
     return d
 
-def load_class_images(d):
+def load_class_images(compute_quality, d):
     if d['class'] not in ICEICE_CACHE:
         class_dir, split_name = d['class'].split('/')
 
@@ -57,11 +57,24 @@ def load_class_images(d):
 
         loader = torch.utils.data.DataLoader(image_ds, batch_size=len(image_ds), shuffle=False)
 
+        cache_entry = { }
         for sample in loader:
-            ICEICE_CACHE[d['class']] = sample['data']
+            cache_entry['data'] = sample['data']
             break # only need one sample because batch size equal to dataset length
 
-    return { 'class': d['class'], 'data': ICEICE_CACHE[d['class']] }
+        if compute_quality:
+            from protonets.data.quality import load_scores
+            cache_path = os.path.join(ICEICE_DATA_DIR, '.arniqa_cache.json')
+            scores = load_scores(class_images, cache_path)
+            cache_entry['quality'] = torch.tensor(scores, dtype=torch.float32)
+
+        ICEICE_CACHE[d['class']] = cache_entry
+
+    cache_entry = ICEICE_CACHE[d['class']]
+    ret = { 'class': d['class'], 'data': cache_entry['data'] }
+    if 'quality' in cache_entry:
+        ret['quality'] = cache_entry['quality']
+    return ret
 
 def extract_episode(n_support, n_query, d):
     # data: N x C x H x W
@@ -77,11 +90,15 @@ def extract_episode(n_support, n_query, d):
     xs = d['data'][support_inds]
     xq = d['data'][query_inds]
 
-    return {
+    ret = {
         'class': d['class'],
         'xs': xs,
         'xq': xq
     }
+    if 'quality' in d:
+        ret['qs'] = d['quality'][support_inds]
+
+    return ret
 
 def load(opt, splits):
     ret = { }
@@ -107,7 +124,7 @@ def load(opt, splits):
             n_episodes = opt['data.train_episodes']
 
         transforms = [partial(convert_dict, 'class'),
-                      load_class_images,
+                      partial(load_class_images, opt['data.compute_quality']),
                       partial(extract_episode, n_support, n_query)]
         if opt['data.cuda']:
             transforms.append(CudaTransform())

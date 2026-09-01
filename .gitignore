@@ -7,3 +7,4 @@ dist
 build
 *.zip
 venv/
+.arniqa_cache.json
