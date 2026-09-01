@@ -22,13 +22,18 @@ If you use this code, please cite our paper:
 * Install [torchnet](https://github.com/pytorch/tnt) by running `pip install git+https://github.com/pytorch/tnt.git@master`.
 * Install the protonets package by running `python setup.py install` or `python setup.py develop`.
 
-### Set up the Omniglot dataset
+### Dataset
 
-* Run `sh download_omniglot.sh`.
+* This project is set up to train on the `dataset ice ice/` folder, a 2-class seaweed
+  disease dataset (`sehat` = healthy, `ice ice` = ice-ice disease), each already split
+  into `train/`, `valid/` and `test/` subfolders. No download step is required.
+* The original Omniglot dataset is still supported; run `sh download_omniglot.sh` and
+  pass `--data.dataset omniglot` to train on it instead.
 
 ### Train the model
 
-* Run `python scripts/train/few_shot/run_train.py`. This will run training and place the results into `results`.
+* Run `python scripts/train/few_shot/run_train.py`. This will run training on the
+  ice-ice dataset (2-way, 5-shot by default) and place the results into `results`.
   * You can specify a different output directory by passing in the option `--log.exp_dir EXP_DIR`, where `EXP_DIR` is your desired output directory.
   * If you are running on a GPU you can pass in the option `--data.cuda`.
 * Re-run in trainval mode `python scripts/train/few_shot/run_trainval.py`. This will save your model into `results/trainval` by default.

@@ -8,5 +8,6 @@ setup(name='protonets',
       packages=['protonets'],
       install_requires=[
           'torch',
+          'torchvision',
           'tqdm'
       ])

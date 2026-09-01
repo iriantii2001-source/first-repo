@@ -1,5 +1,34 @@
 import torch
 
+class ListDataset(torch.utils.data.Dataset):
+    def __init__(self, elem_list, load=lambda x: x):
+        self.elem_list = elem_list
+        self.load = load
+
+    def __len__(self):
+        return len(self.elem_list)
+
+    def __getitem__(self, idx):
+        return self.load(self.elem_list[idx])
+
+class TransformDataset(torch.utils.data.Dataset):
+    def __init__(self, dataset, transform):
+        self.dataset = dataset
+        self.transform = transform
+
+    def __len__(self):
+        return len(self.dataset)
+
+    def __getitem__(self, idx):
+        return self.transform(self.dataset[idx])
+
+def compose(transforms):
+    def composed(x):
+        for transform in transforms:
+            x = transform(x)
+        return x
+    return composed
+
 def convert_dict(k, v):
     return { k: v }
 

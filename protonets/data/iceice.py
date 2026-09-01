@@ -1,61 +1,67 @@
 import os
-import sys
 import glob
 
 from functools import partial
 
-import numpy as np
-from PIL import Image
-
 import torch
-from torchvision.transforms import ToTensor
+from torchvision.transforms import Compose, Resize, ToTensor
 
-import protonets
 from protonets.data.base import (ListDataset, TransformDataset, compose, convert_dict,
                                   CudaTransform, EpisodicBatchSampler, SequentialBatchSampler)
 
-OMNIGLOT_DATA_DIR  = os.path.join(os.path.dirname(__file__), '../../data/omniglot')
-OMNIGLOT_CACHE = { }
+ICEICE_DATA_DIR = os.path.join(os.path.dirname(__file__), '../../dataset ice ice')
+ICEICE_IMAGE_SIZE = 84
+ICEICE_IMAGE_EXTS = ('*.jpg', '*.jpeg', '*.png', '*.webp')
+ICEICE_SPLIT_DIRS = {
+    'train': ['train'],
+    'val': ['valid'],
+    'test': ['test'],
+    'trainval': ['train', 'valid'],
+}
+ICEICE_CACHE = { }
+
+def get_class_dir_names():
+    return sorted(d for d in os.listdir(ICEICE_DATA_DIR)
+                  if os.path.isdir(os.path.join(ICEICE_DATA_DIR, d)))
 
 def load_image_path(key, out_field, d):
-    d[out_field] = Image.open(d[key])
+    from PIL import Image
+    d[out_field] = Image.open(d[key]).convert('RGB')
     return d
 
-def convert_tensor(key, d):
-    d[key] = 1.0 - torch.from_numpy(np.array(d[key], np.float32, copy=False)).transpose(0, 1).contiguous().view(1, d[key].size[0], d[key].size[1])
-    return d
-
-def rotate_image(key, rot, d):
-    d[key] = d[key].rotate(rot)
-    return d
-
-def scale_image(key, height, width, d):
-    d[key] = d[key].resize((height, width))
+def convert_tensor(key, transform, d):
+    d[key] = transform(d[key])
     return d
 
 def load_class_images(d):
-    if d['class'] not in OMNIGLOT_CACHE:
-        alphabet, character, rot = d['class'].split('/')
-        image_dir = os.path.join(OMNIGLOT_DATA_DIR, 'data', alphabet, character)
+    if d['class'] not in ICEICE_CACHE:
+        class_dir, split_name = d['class'].split('/')
 
-        class_images = sorted(glob.glob(os.path.join(image_dir, '*.png')))
+        class_images = []
+        for sub_dir in ICEICE_SPLIT_DIRS[split_name]:
+            image_dir = os.path.join(ICEICE_DATA_DIR, class_dir, sub_dir)
+            for ext in ICEICE_IMAGE_EXTS:
+                class_images.extend(glob.glob(os.path.join(image_dir, ext)))
+        class_images = sorted(class_images)
+
         if len(class_images) == 0:
-            raise Exception("No images found for omniglot class {} at {}. Did you run download_omniglot.sh first?".format(d['class'], image_dir))
+            raise Exception("No images found for ice-ice class {} at {}".format(
+                d['class'], os.path.join(ICEICE_DATA_DIR, class_dir)))
+
+        transform = Compose([Resize((ICEICE_IMAGE_SIZE, ICEICE_IMAGE_SIZE)), ToTensor()])
 
         image_ds = TransformDataset(ListDataset(class_images),
                                     compose([partial(convert_dict, 'file_name'),
                                              partial(load_image_path, 'file_name', 'data'),
-                                             partial(rotate_image, 'data', float(rot[3:])),
-                                             partial(scale_image, 'data', 28, 28),
-                                             partial(convert_tensor, 'data')]))
+                                             partial(convert_tensor, 'data', transform)]))
 
         loader = torch.utils.data.DataLoader(image_ds, batch_size=len(image_ds), shuffle=False)
 
         for sample in loader:
-            OMNIGLOT_CACHE[d['class']] = sample['data']
+            ICEICE_CACHE[d['class']] = sample['data']
             break # only need one sample because batch size equal to dataset length
 
-    return { 'class': d['class'], 'data': OMNIGLOT_CACHE[d['class']] }
+    return { 'class': d['class'], 'data': ICEICE_CACHE[d['class']] }
 
 def extract_episode(n_support, n_query, d):
     # data: N x C x H x W
@@ -78,8 +84,6 @@ def extract_episode(n_support, n_query, d):
     }
 
 def load(opt, splits):
-    split_dir = os.path.join(OMNIGLOT_DATA_DIR, 'splits', opt['data.split'])
-
     ret = { }
     for split in splits:
         if split in ['val', 'test'] and opt['data.test_way'] != 0:
@@ -110,16 +114,13 @@ def load(opt, splits):
 
         transforms = compose(transforms)
 
-        class_names = []
-        with open(os.path.join(split_dir, "{:s}.txt".format(split)), 'r') as f:
-            for class_name in f.readlines():
-                class_names.append(class_name.rstrip('\n'))
+        class_names = ["{:s}/{:s}".format(c, split) for c in get_class_dir_names()]
         ds = TransformDataset(ListDataset(class_names), transforms)
 
         if opt['data.sequential']:
             sampler = SequentialBatchSampler(len(ds))
         else:
-            sampler = EpisodicBatchSampler(len(ds), n_way, n_episodes)
+            sampler = EpisodicBatchSampler(len(ds), min(n_way, len(ds)), n_episodes)
 
         # use num_workers=0, otherwise may receive duplicate episodes
         ret[split] = torch.utils.data.DataLoader(ds, batch_sampler=sampler, num_workers=0)

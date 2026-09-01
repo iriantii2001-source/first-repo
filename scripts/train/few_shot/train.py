@@ -9,9 +9,9 @@ import torch
 import torch.optim as optim
 import torch.optim.lr_scheduler as lr_scheduler 
 import torchvision
-import torchnet as tnt
 
 from protonets.engine import Engine
+from protonets.utils.meter import AverageValueMeter
 
 import protonets.utils.data as data_utils
 import protonets.utils.model as model_utils
@@ -52,10 +52,10 @@ def main(opt):
 
     engine = Engine()
 
-    meters = { 'train': { field: tnt.meter.AverageValueMeter() for field in opt['log.fields'] } }
+    meters = { 'train': { field: AverageValueMeter() for field in opt['log.fields'] } }
 
     if val_loader is not None:
-        meters['val'] = { field: tnt.meter.AverageValueMeter() for field in opt['log.fields'] }
+        meters['val'] = { field: AverageValueMeter() for field in opt['log.fields'] }
 
     def on_start(state):
         if os.path.isfile(trace_file):

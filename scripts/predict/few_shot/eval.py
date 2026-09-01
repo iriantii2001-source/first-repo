@@ -4,9 +4,9 @@ import math
 from tqdm import tqdm
 
 import torch
-import torchnet as tnt
 
 from protonets.utils import filter_opt, merge_dict
+from protonets.utils.meter import AverageValueMeter
 import protonets.utils.data as data_utils
 import protonets.utils.model as model_utils
 
@@ -55,7 +55,7 @@ def main(opt):
     if data_opt['data.cuda']:
         model.cuda()
 
-    meters = { field: tnt.meter.AverageValueMeter() for field in model_opt['log.fields'] }
+    meters = { field: AverageValueMeter() for field in model_opt['log.fields'] }
 
     model_utils.evaluate(model, data['test'], meters, desc="test")
 
