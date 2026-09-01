@@ -43,19 +43,19 @@ parser.add_argument('--model.z_dim', type=int, default=64, metavar='ZDIM',
                     help="dimensionality of input images (default: 64)")
 
 # train args
-parser.add_argument('--train.epochs', type=int, default=10000, metavar='NEPOCHS',
-                    help='number of epochs to train (default: 10000)')
+parser.add_argument('--train.epochs', type=int, default=100, metavar='NEPOCHS',
+                    help='number of epochs to train (default: 100)')
 parser.add_argument('--train.optim_method', type=str, default='Adam', metavar='OPTIM',
                     help='optimization method (default: Adam)')
 parser.add_argument('--train.learning_rate', type=float, default=0.001, metavar='LR',
                     help='learning rate (default: 0.0001)')
-parser.add_argument('--train.decay_every', type=int, default=20, metavar='LRDECAY',
+parser.add_argument('--train.decay_every', type=int, default=10, metavar='LRDECAY',
                     help='number of epochs after which to decay the learning rate')
 default_weight_decay = 0.0
 parser.add_argument('--train.weight_decay', type=float, default=default_weight_decay, metavar='WD',
                     help="weight decay (default: {:f})".format(default_weight_decay))
-parser.add_argument('--train.patience', type=int, default=200, metavar='PATIENCE',
-                    help='number of epochs to wait before validation improvement (default: 1000)')
+parser.add_argument('--train.patience', type=int, default=20, metavar='PATIENCE',
+                    help='number of epochs to wait before validation improvement (default: 20)')
 
 # log args
 default_fields = 'loss,acc'
