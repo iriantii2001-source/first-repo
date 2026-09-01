@@ -12,7 +12,9 @@ import protonets.utils.model as model_utils
 
 def main(opt):
     # load model
-    model = torch.load(opt['model.model_path'])
+    # weights_only=False: these checkpoints are full pickled model objects (this
+    # repo's own protonets.models classes), saved by scripts/train/few_shot/train.py
+    model = torch.load(opt['model.model_path'], weights_only=False)
     model.eval()
 
     # load opts

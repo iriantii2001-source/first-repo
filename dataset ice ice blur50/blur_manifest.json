@@ -1,0 +1,2794 @@
+{
+  "src": "dataset ice ice",
+  "ratio": 0.5,
+  "frac_min": 0.006,
+  "frac_max": 0.018,
+  "seed": 42,
+  "images": [
+    {
+      "path": "sehat/valid/070155200_1573444631-pulau_seribu__6__webp.rf.nXvtn2U8Hz86dwPfz63N.webp",
+      "blurred": true,
+      "blur_radius": 9.85
+    },
+    {
+      "path": "sehat/valid/1-s2-0-S0981942824001335-gr7_jpg.rf.dyuvYsD2FvUW5EzQhELY.jpg",
+      "blurred": true,
+      "blur_radius": 5.59
+    },
+    {
+      "path": "sehat/valid/20160810064844437_jpg.rf.50VEDtJqFmrZ3gjm1Ys9.jpg",
+      "blurred": true,
+      "blur_radius": 3.97
+    },
+    {
+      "path": "sehat/valid/22-rumput-laut-okkk-729482623_webp.rf.EgzC5OITch3QRwW6hdbM.webp",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/3-s2-0-B9780323950862000011-f35-02-9780323950862_jpg.rf.GOkF5DUNsEDbskTWkCAE.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/IMG-20210727-WA0026 (1)_jpg.rf.OtGYwa7J086xVs7dMJHk.jpg",
+      "blurred": true,
+      "blur_radius": 9.11
+    },
+    {
+      "path": "sehat/valid/Three-varieties-of-Kappaphycus-collected-from-cultivation-areas-in-Gerupuk-West-Lombok_png.rf.VcHha6UIsfbibCTXhbIR.png",
+      "blurred": true,
+      "blur_radius": 6.22
+    },
+    {
+      "path": "sehat/valid/alga-merah_jpg.rf.fjHyUW3lnpCO2Yn0OdTf.jpg",
+      "blurred": true,
+      "blur_radius": 5.16
+    },
+    {
+      "path": "sehat/valid/cf30313fcd9b25f0bdddff531207c26e_png.rf.EEWGbF9mLkCWeJNaHeHP.png",
+      "blurred": true,
+      "blur_radius": 4.4
+    },
+    {
+      "path": "sehat/valid/download_jpg.rf.XnTfOPmQEOrVT4tZFTmE.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images (14)_jpg.rf.UG37AB6NPfM62BZvnwQs.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images (4)_jpg.rf.6Bg06QGI7YNHBKFauytV.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images (55)_jpg.rf.CDKPT0BjXOkz1klL6HU1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images (76)_jpg.rf.oTrfx6LKh1peFHzjf3Kh.jpg",
+      "blurred": true,
+      "blur_radius": 1.55
+    },
+    {
+      "path": "sehat/valid/images (83)_jpg.rf.4hsbMyhC8l3LrgJqGD15.jpg",
+      "blurred": true,
+      "blur_radius": 2.03
+    },
+    {
+      "path": "sehat/valid/images (87)_jpg.rf.xz5yXe84BAmgmEbn0dm6.jpg",
+      "blurred": true,
+      "blur_radius": 1.89
+    },
+    {
+      "path": "sehat/valid/images (90)_jpg.rf.3X4Y66DXPDdHCgoNM3UU.jpg",
+      "blurred": true,
+      "blur_radius": 1.83
+    },
+    {
+      "path": "sehat/valid/images (91)_jpg.rf.jaPZ87E5T39PUx4j008H.jpg",
+      "blurred": true,
+      "blur_radius": 2.53
+    },
+    {
+      "path": "sehat/valid/images (92)_jpg.rf.lFMoxRFwYJqjaAOzqoxd.jpg",
+      "blurred": true,
+      "blur_radius": 1.4
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163527-856_jpg.rf.mETtuzkqkp8tWml8t956.jpg",
+      "blurred": true,
+      "blur_radius": 2.05
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163536-506_jpg.rf.zH2Ds5lAP5GjtBQIzNH1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163602-464_jpg.rf.YHPcs5hT8qQ3ZNRogqBR.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163639-632_jpg.rf.gI0N9Fvaf98d29O2iL1r.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163721-892_jpg.rf.hvMGP7KHegHLpeyZ9X1G.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163812-818_jpg.rf.agKvPRVI3Y8sjiez9wVr.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163827-195_jpg.rf.GB3pKCqAa9AoN7RRRWin.jpg",
+      "blurred": true,
+      "blur_radius": 1.73
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T163909-244_jpg.rf.Hqt5jUsHTjt2LYU8UH6I.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T164042-400_jpg.rf.EXUfXqnI0gYuVO24gS7D.jpg",
+      "blurred": true,
+      "blur_radius": 1.96
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T164512-361_jpg.rf.p0S1TH8N4wbztmaQgiB7.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T164841-214_jpg.rf.lCi30VYv5i1KtRn6Jct0.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T170239-399_jpg.rf.l4VgfXODzjN4rRE8zN4Z.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T170506-484_jpg.rf.Kml4c7umCTERXfjhfkZv.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T170849-484_jpg.rf.W6qFTKHtabz8OC6iwgZk.jpg",
+      "blurred": true,
+      "blur_radius": 1.54
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T171101-216_jpg.rf.Wf83izZImfijoExC53nq.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T171306-151_jpg.rf.Q6y6KXQyDY7NDbHc7rmw.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T171959-134_jpg.rf.9ESsUJuk8JCPtY09kPgL.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T172717-211_jpg.rf.XyiX6nEsvGV33MLYEPQa.jpg",
+      "blurred": true,
+      "blur_radius": 1.19
+    },
+    {
+      "path": "sehat/valid/images - 2024-11-09T173231-504_jpg.rf.QXGxqzdVT1wUfIwKQyzc.jpg",
+      "blurred": true,
+      "blur_radius": 2.1
+    },
+    {
+      "path": "sehat/valid/iwwfwmages (3)_jpg.rf.kXf1UrNK1I6WPAiCeqeu.jpg",
+      "blurred": true,
+      "blur_radius": 1.3
+    },
+    {
+      "path": "sehat/test/IMG_20221017_19094226_jpg.rf.nSVVGmtPmXrXwPkViKo3.jpg",
+      "blurred": true,
+      "blur_radius": 11.0
+    },
+    {
+      "path": "sehat/test/images (11)_jpg.rf.pVwHfBbVoFVxwxBS8vqw.jpg",
+      "blurred": true,
+      "blur_radius": 4.01
+    },
+    {
+      "path": "sehat/test/images (35)_jpg.rf.EKlt6UMdXYWBDqfGj3Cj.jpg",
+      "blurred": true,
+      "blur_radius": 2.62
+    },
+    {
+      "path": "sehat/test/images (37)_jpg.rf.ML7Zb4o06at6x5Tf6mUB.jpg",
+      "blurred": true,
+      "blur_radius": 3.43
+    },
+    {
+      "path": "sehat/test/images (86)_jpg.rf.0sWxQlXW21mT2iUDk4St.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images (hbih0)_jpg.rf.Mci2XF248Fc0ErN3GoJc.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T163822-297_jpg.rf.NKYFGgbTp87uDE5ihFWJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T164405-616_jpg.rf.8MQrkOLvx8gXfb1kX1yH.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T164425-286_jpg.rf.Xf1QzkxOm7Bh5eIxDSHv.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T164449-422_jpg.rf.RAWWuOjIQhkr4FyWppnf.jpg",
+      "blurred": true,
+      "blur_radius": 2.38
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T164817-068_jpg.rf.G9gbgafKixAq5eCgzbFD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T165101-010_jpg.rf.2sWIcqeFV81ABjx8aC3e.jpg",
+      "blurred": true,
+      "blur_radius": 2.57
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T165112-758_jpg.rf.dbgckU90eYonrkOKxyvN.jpg",
+      "blurred": true,
+      "blur_radius": 3.11
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T165337-731_jpg.rf.BF7auvQgPC0maLDBoTVI.jpg",
+      "blurred": true,
+      "blur_radius": 1.73
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T170419-057_jpg.rf.zzRkhnzLeKAnCdaOBP1T.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T172054-585_jpg.rf.Fl8JfepsqPBuICAedcRY.jpg",
+      "blurred": true,
+      "blur_radius": 1.99
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T172455-063_jpg.rf.wl7xjaRezlYmeyEA5xbv.jpg",
+      "blurred": true,
+      "blur_radius": 2.23
+    },
+    {
+      "path": "sehat/test/images - 2024-11-09T173336-772_jpg.rf.mlbKHFHfQgDjATNLD6QA.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/test/zanzibari-woman-at-low-tide-with-harvested-seaweed-eucheuma-spinosum-matemwe-zanzibar-tanzania-W7T1AA_jpg.rf.25s1Q1oIoLcZajxRZeMt.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/077882900_1573444631-pulau_seribu__5__webp.rf.lZj79BHfUvOVcdvzwXvk.webp",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/173_webp.rf.gAGS74XiqIWPp7CXhD7D.webp",
+      "blurred": true,
+      "blur_radius": 7.24
+    },
+    {
+      "path": "sehat/train/174_webp.rf.asSsK5dA15Qd8jUd8tBM.webp",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/522574_1_En_9_Fig6_HTML_jpg.rf.lVVmxpfBGADxZ8kaV683.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/814ce-inasea7-copy_jpg.rf.vmKRlMoiNjfsjtSlhZWh.jpg",
+      "blurred": true,
+      "blur_radius": 6.52
+    },
+    {
+      "path": "sehat/train/Cottonii_1-scaled_jpg.rf.5WjYMOoL12f6cRqvgxxB.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/Eucheuma-Cottoni_jpg.rf.qsh9vNzSXG9kxSD6lAGv.jpg",
+      "blurred": true,
+      "blur_radius": 6.05
+    },
+    {
+      "path": "sehat/train/Kandungan-dan-Manfaat-Rumput-Laut-untuk-Kesehatan_jpg.rf.n31aKl8rxBCHoaOJsO25.jpg",
+      "blurred": true,
+      "blur_radius": 7.31
+    },
+    {
+      "path": "sehat/train/Rumput_laut-2022_09_16-00_12_12_e50cbd01a941f4892f2b30beb9180628_960x640_thumb_webp.rf.wzRh8Rv7QUh9Hr78Lr0C.webp",
+      "blurred": true,
+      "blur_radius": 5.05
+    },
+    {
+      "path": "sehat/train/a2c1ed68-070e-43a5-9b2f-8e9ab75d6fd6_jpg.rf.dEst4LzMpu2OMvLCrRHd.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/cottoni_jpg.rf.EEekVpZ04bMGlPq6j7SA.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/diver-collecting-edible-algae-eucheuma-sp-lighthouse-reef-atoll-belize-M49FR0_jpg.rf.IE9FQ6BiIGrrZ2Zuqa0k.jpg",
+      "blurred": true,
+      "blur_radius": 5.74
+    },
+    {
+      "path": "sehat/train/download (1)_jpg.rf.4NeD3475fBu3jvngqPEy.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/download (2)_jpg.rf.ezjBSWAeMC5orWL2Fvdi.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/download (3)_jpg.rf.AjynQ7qbr9EmeUBpvrRr.jpg",
+      "blurred": true,
+      "blur_radius": 2.85
+    },
+    {
+      "path": "sehat/train/download (4)_jpg.rf.mgViRdAAlq3kzdcgjbL1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/download (5)_jpg.rf.soFUYMGxSgslD73FXvhW.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/gvv3m6esumtwldvisg8a_jpg.rf.fUtjrOXGKpWY73Dv0vi6.jpg",
+      "blurred": true,
+      "blur_radius": 5.27
+    },
+    {
+      "path": "sehat/train/hq720_2_jpg.rf.1WnnCPPxMy6HdkyL5nEi.jpg",
+      "blurred": true,
+      "blur_radius": 7.15
+    },
+    {
+      "path": "sehat/train/https___asset-kgnewsroom-com_photo_pre_2023_08_31_06ddfd6e-720f-499e-9c8c-089de1652ea5_jpeg_jpg.rf.AamYgXkZjqfKX9jDJZLt.jpg",
+      "blurred": true,
+      "blur_radius": 10.34
+    },
+    {
+      "path": "sehat/train/images (1)_jpg.rf.iLhYUs8vh0OOoZiiO61C.jpg",
+      "blurred": true,
+      "blur_radius": 2.26
+    },
+    {
+      "path": "sehat/train/images (10)_jpg.rf.pvW27HuK7DTRTkpL01XY.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (100)_jpg.rf.oi2uVgtO7tIsDSGPF1sX.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (13)_jpg.rf.c4BCDC2XhTRyspjsaFeD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (15)_jpg.rf.EJejOhDOMch0PynfsHYe.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (16)_jpg.rf.jlF98aB7Kj1EoTn78lHz.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (18)_jpg.rf.MrGVZv8hQx7ZCVtPrC5U.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (19)_jpg.rf.drCP5O5ANR93Qzd2W0RO.jpg",
+      "blurred": true,
+      "blur_radius": 1.33
+    },
+    {
+      "path": "sehat/train/images (2)_jpg.rf.EfD1PYxvatDNanTLTQ6u.jpg",
+      "blurred": true,
+      "blur_radius": 2.62
+    },
+    {
+      "path": "sehat/train/images (20)_jpg.rf.c3bHeFWH94AwBpgIfBiZ.jpg",
+      "blurred": true,
+      "blur_radius": 2.95
+    },
+    {
+      "path": "sehat/train/images (21)_jpg.rf.wcXLqQEHwojeqGoKDrUa.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (23)_jpg.rf.lOXop40uWFkwcZdyo88i.jpg",
+      "blurred": true,
+      "blur_radius": 2.66
+    },
+    {
+      "path": "sehat/train/images (3)_jpg.rf.zLF7IWaff6aOHEdRc3VO.jpg",
+      "blurred": true,
+      "blur_radius": 1.53
+    },
+    {
+      "path": "sehat/train/images (30)_jpg.rf.aeciwwfWil6DAGequvh3.jpg",
+      "blurred": true,
+      "blur_radius": 1.99
+    },
+    {
+      "path": "sehat/train/images (31)_jpg.rf.hSAfOHaxG9lo6SSwg9MW.jpg",
+      "blurred": true,
+      "blur_radius": 1.49
+    },
+    {
+      "path": "sehat/train/images (32)_jpg.rf.6oRTCn72rGiyqD1EsFQh.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (38)_jpg.rf.Dj69KXxZ7DyqQTI0ZY4F.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (39)_jpg.rf.1YAA1PLv04qYu9QHIrss.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (40)_jpg.rf.SUtzWlNsMikJJy24InCW.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (41)_jpg.rf.WNVNA0M3sr1feXL9JOEO.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (44)_jpg.rf.rfPMQQc63GruVGPYQ92I.jpg",
+      "blurred": true,
+      "blur_radius": 2.63
+    },
+    {
+      "path": "sehat/train/images (45)_jpg.rf.HeClVI6YPUsLceFy88fa.jpg",
+      "blurred": true,
+      "blur_radius": 3.17
+    },
+    {
+      "path": "sehat/train/images (47)_jpg.rf.xwDK58D0RvmKaj3xm5XE.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (48)_jpg.rf.TLo2mhOBrkH0SjZKAQcv.jpg",
+      "blurred": true,
+      "blur_radius": 3.44
+    },
+    {
+      "path": "sehat/train/images (49)_jpg.rf.E0qHIrsqD1aP4Gfbqyw4.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (5)_jpg.rf.ZPX3Kwy4Bsvw4UYHQIvn.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (51)_jpg.rf.wQ6KZspoC4iRBJEI1qS1.jpg",
+      "blurred": true,
+      "blur_radius": 2.65
+    },
+    {
+      "path": "sehat/train/images (54)_jpg.rf.vz3byimPTZ8TduFvgePs.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (57)_jpg.rf.j0UCOZDwd3gidDUuQjcf.jpg",
+      "blurred": true,
+      "blur_radius": 2.52
+    },
+    {
+      "path": "sehat/train/images (6)_jpg.rf.Jz92WknvpSOvRG94sox4.jpg",
+      "blurred": true,
+      "blur_radius": 1.34
+    },
+    {
+      "path": "sehat/train/images (60)_jpg.rf.hrA0EPPOJyDQI3RDNvkJ.jpg",
+      "blurred": true,
+      "blur_radius": 1.81
+    },
+    {
+      "path": "sehat/train/images (61)_jpg.rf.cPUjkgWvCIGXwTwca8ol.jpg",
+      "blurred": true,
+      "blur_radius": 4.01
+    },
+    {
+      "path": "sehat/train/images (78)_jpg.rf.AoPGnVFioXjs65mE1r0I.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (82)_jpg.rf.R3XruzhtEp0ZuVcTd8dJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (89)_jpg.rf.ykQjqYitxKS99QVVFQJk.jpg",
+      "blurred": true,
+      "blur_radius": 3.39
+    },
+    {
+      "path": "sehat/train/images (94)_jpg.rf.ZCKJ5mzIJuNfkrreLAoY.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (95)_jpg.rf.LQi3y4yQrtUDdViIFiQQ.jpg",
+      "blurred": true,
+      "blur_radius": 1.7
+    },
+    {
+      "path": "sehat/train/images (98)_jpg.rf.QX6ujmgXIvk4BTWZTzlG.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images (99)_jpg.rf.ZDY9s6WZ4tvPF86Dedfd.jpg",
+      "blurred": true,
+      "blur_radius": 1.73
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163451-653_jpg.rf.Cu0udDEry7mhNTy1BQmD.jpg",
+      "blurred": true,
+      "blur_radius": 2.48
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163545-263_jpg.rf.r3cptIJWU3Nf1PQHS8g2.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163609-014_jpg.rf.0gLKGq71hVmYRn3PyA98.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163623-415_jpg.rf.XrjKQZOIDGb3Bl09YHT4.jpg",
+      "blurred": true,
+      "blur_radius": 1.42
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163649-943_jpg.rf.XiWrywEF4czbEqXiLOO6.jpg",
+      "blurred": true,
+      "blur_radius": 2.99
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163708-772_jpg.rf.iRgxHrhFiXgpZ6uMN5Uc.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163714-995_jpg.rf.FcRHQUXw49a548Tl4WKu.jpg",
+      "blurred": true,
+      "blur_radius": 2.65
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163731-336_jpg.rf.oim1uQLLJulGAI4OaG3r.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163802-361_jpg.rf.WOx9gTfueuMnarEq9h64.jpg",
+      "blurred": true,
+      "blur_radius": 3.44
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163848-153_jpg.rf.xFFwliqRQnYT1E5CsOpI.jpg",
+      "blurred": true,
+      "blur_radius": 2.27
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T163928-793_jpg.rf.Sm9l62dUkBv9SD9HfXE4.jpg",
+      "blurred": true,
+      "blur_radius": 1.15
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164124-374_jpg.rf.xGyvS2H9aW48qHgxhiVc.jpg",
+      "blurred": true,
+      "blur_radius": 2.77
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164132-954_jpg.rf.y9d2xWMK4fdlloQ2UWdN.jpg",
+      "blurred": true,
+      "blur_radius": 3.91
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164150-875_jpg.rf.A0MiqpfkTZSorbnRapXW.jpg",
+      "blurred": true,
+      "blur_radius": 1.69
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164200-107_jpg.rf.mOqcaLxLh0CJD1rqA7po.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164205-074_jpg.rf.CJU42Dn4e0WeFDn0wllh.jpg",
+      "blurred": true,
+      "blur_radius": 2.76
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164212-457_jpg.rf.u04xOBxj6vg9lLAwr41Y.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164221-573_jpg.rf.B63b2YFlZDRIxEdpBQFW.jpg",
+      "blurred": true,
+      "blur_radius": 2.67
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164244-031_jpg.rf.pwmLVEzbnNR2Ztpxi33Y.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164436-272_jpg.rf.x8pBeKeCgiCEVmMUYzxj.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164524-562_jpg.rf.is3qxS9cO2jRPRGW2MNO.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164550-985_jpg.rf.u0ekbuKXW0Uz6Ol6028W.jpg",
+      "blurred": true,
+      "blur_radius": 3.92
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164605-101_jpg.rf.8Hw69zCnOpYrAUj1hLr5.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164629-558_jpg.rf.ok1bf1O2VHjaJZTfr7gl.jpg",
+      "blurred": true,
+      "blur_radius": 3.33
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164644-223_jpg.rf.5KF0AvE2WFDZX8knKqu7.jpg",
+      "blurred": true,
+      "blur_radius": 3.01
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164750-270_jpg.rf.TFSgjZAHuCUbvUg5V6TD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164757-955_jpg.rf.rnFvwdROeGzgfsEaieZF.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164811-570_jpg.rf.alJ0mCvkrX5PJG7ecSPl.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164829-899_jpg.rf.jIv0VdKT8WxcutGg8t6h.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164850-087_jpg.rf.7m1sj9mwN2u45tFnQuCq.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T164921-675_jpg.rf.l9osSU7QLBUaLFgBo5Oy.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165035-911_jpg.rf.qJhr0kq6bBJylLd5YIvE.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165042-840_jpg.rf.PNdtjM4eqnB2xASbhk95.jpg",
+      "blurred": true,
+      "blur_radius": 3.06
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165052-860_jpg.rf.wWWkz7Bw6FsZkgkUTNLu.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165129-472_jpg.rf.aAKfzqDJ7BmZVrYxnbmP.jpg",
+      "blurred": true,
+      "blur_radius": 2.46
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165217-661_jpg.rf.wSiB4USTyKb1zQkdkTjC.jpg",
+      "blurred": true,
+      "blur_radius": 2.14
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165231-179_jpg.rf.d10YbowZSUzCb1wd7xxP.jpg",
+      "blurred": true,
+      "blur_radius": 3.16
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165315-144_jpg.rf.JV4U3lvNDnfg8bYinr1e.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165328-817_jpg.rf.Nu5oR7fvO7u0lmQQ3Nmc.jpg",
+      "blurred": true,
+      "blur_radius": 2.03
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165401-593_jpg.rf.dy7yoCLnb2EASMxDBn0H.jpg",
+      "blurred": true,
+      "blur_radius": 3.78
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165438-944_jpg.rf.sHc3cfjmxpWQ02izanGt.jpg",
+      "blurred": true,
+      "blur_radius": 2.22
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165526-382_jpg.rf.u3ZMDtNCc1pNgIrSYteC.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T165533-956_jpg.rf.1s9yocUluL5GHgmg75QO.jpg",
+      "blurred": true,
+      "blur_radius": 1.74
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170032-887_jpg.rf.Rw660ooUwaZqyz5HfutT.jpg",
+      "blurred": true,
+      "blur_radius": 1.2
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170141-003_jpg.rf.e9Bx4E9lv4ytRjYwFc4N.jpg",
+      "blurred": true,
+      "blur_radius": 1.41
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170148-147_jpg.rf.RUMuYim7u9TApEpDh31e.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170158-420_jpg.rf.N4c1JYm8z9AjdiFiCGLi.jpg",
+      "blurred": true,
+      "blur_radius": 2.12
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170223-720_jpg.rf.HyKIT1vCegHV8HEEzMNs.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170351-908_jpg.rf.a3VwIE1f4sgFPo3hjjiY.jpg",
+      "blurred": true,
+      "blur_radius": 2.53
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170402-366_jpg.rf.m9Ty35CJxdrVT43jz0qT.jpg",
+      "blurred": true,
+      "blur_radius": 1.31
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170459-146_jpg.rf.0TMRpWDlseXKefWUyPWT.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170713-522_jpg.rf.tvenk9kzc2Q55M5CzFyB.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T170822-410_jpg.rf.j7EGht1OCFaa0serjKG1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171202-423_jpg.rf.DHoJHKGm0noKeZurE8W1.jpg",
+      "blurred": true,
+      "blur_radius": 3.26
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171215-824_jpg.rf.2R2jFdxj1CIyKdBe0NOY.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171345-661_jpg.rf.IT1m8D7JYjwWh5Q7z3hB.jpg",
+      "blurred": true,
+      "blur_radius": 1.17
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171533-388_jpg.rf.VuxFJvs0DCmuRTzVc50v.jpg",
+      "blurred": true,
+      "blur_radius": 1.25
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171546-130_jpg.rf.VVhcpeBclGLcayxcaUJJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171602-289_jpg.rf.rD8496noDt9rWJNm3fcQ.jpg",
+      "blurred": true,
+      "blur_radius": 1.24
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171641-282_jpg.rf.w9Z6Hu3CkXKdjS4JRqCw.jpg",
+      "blurred": true,
+      "blur_radius": 1.73
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T171900-112_jpg.rf.GdxlxGpir0XB68qpwkbN.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T172006-798_jpg.rf.W43NzOlF8fYN09LXQ3Vm.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T172040-413_jpg.rf.P6hBykBWlpffN937lUKk.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T172256-565_jpg.rf.fNxiQ3HJ2eMveoi386Gt.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T172644-607_jpg.rf.UsREBDBCiQXlNU7Sp83i.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T173126-152_jpg.rf.GqgVeTdcmrEBzcm5HZ0j.jpg",
+      "blurred": true,
+      "blur_radius": 2.74
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T173308-640_jpg.rf.luaSKNEmXaC5UQoJEKvu.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T173720-700_jpg.rf.2QcakGtWbE6hWsqpzLCs.jpg",
+      "blurred": true,
+      "blur_radius": 1.81
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T174344-360_jpg.rf.0RnHwR1AInFJRfqPxBoa.jpg",
+      "blurred": true,
+      "blur_radius": 2.66
+    },
+    {
+      "path": "sehat/train/images - 2024-11-09T174405-411_jpg.rf.vB50WDlVd0b98dC9e0nU.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/images_jpg.rf.kujVAQXPKPWtXnVS2Gu9.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/istockphoto-1143629542-1024x1024_jpg.rf.lUNVHMtS5vel11N8mVGt.jpg",
+      "blurred": true,
+      "blur_radius": 8.48
+    },
+    {
+      "path": "sehat/train/iwwfwmageasdasds (3)_jpg.rf.hmCsayz9NAxOvpr4HIta.jpg",
+      "blurred": true,
+      "blur_radius": 2.69
+    },
+    {
+      "path": "sehat/train/medium_a396c765d27c821bbe41b1262288f33f_png.rf.hZvIyrIJeu05J3jHNlVZ.png",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/snorkeller-collecting-edible-algae-eucheuma-sp-lighthouse-reef-atoll-belize-may-2015-2BNHRB6_jpg.rf.xjQ7ZWIWPmgNKmlPtO4c.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/stock-photo-cultivation-of-kappaphycus-alvarezii-seaweed-which-is-done-by-tying-the-seeds-with-long-ropes-is-2443074569_jpg.rf.w9XLnxgkuPWgoxL7kFHJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "sehat/train/tnbq8xr9ef5s6s0_jpeg.rf.x2MsJqOxVqimjZbwzqKS.jpeg",
+      "blurred": true,
+      "blur_radius": 10.72
+    },
+    {
+      "path": "ice ice/valid/1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/2.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/3.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/4.jpg",
+      "blurred": true,
+      "blur_radius": 3.53
+    },
+    {
+      "path": "ice ice/valid/5.jpg",
+      "blurred": true,
+      "blur_radius": 5.1
+    },
+    {
+      "path": "ice ice/valid/6.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/7.jpg",
+      "blurred": true,
+      "blur_radius": 3.93
+    },
+    {
+      "path": "ice ice/valid/8.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0049_jpg.rf.SK0Wx9kA93VC6tjPIV89.jpg",
+      "blurred": true,
+      "blur_radius": 2.06
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0057_jpg.rf.aE8ot69orH4BspiyIwgB.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0067_jpg.rf.L8epcKeija2sZBTqiCtu.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0083_jpg.rf.3aQ9TJ0gGaSAZTAv7aI7.jpg",
+      "blurred": true,
+      "blur_radius": 5.61
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0087_jpg.rf.YFUfp4npmwns3HNwvxrY.jpg",
+      "blurred": true,
+      "blur_radius": 5.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0107_jpg.rf.PNY0T6CR3lcHKjy68AiG.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0123_jpg.rf.caIuiim9TGOKGTyHPt5n.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0129_jpg.rf.Df5zw5jpIJXUS3uMhXK8.jpg",
+      "blurred": true,
+      "blur_radius": 5.5
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0141_jpg.rf.7d1gEct0tZGPlD8y9pal.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0147_jpg.rf.S6syo2o953gAJqPzMkX7.jpg",
+      "blurred": true,
+      "blur_radius": 5.34
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0155_jpg.rf.YxPouaSZrO7zn2W78X8d.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0187_jpg.rf.ychgxnRYcKrYNPFZhNkE.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0190_jpg.rf.TTE2V8vDZW6551fpVKQC.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0192_jpg.rf.BqzGH2ekzT5xDlEooxKG.jpg",
+      "blurred": true,
+      "blur_radius": 5.05
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0194_jpg.rf.LYIRHbxqk6ADVUO3OTIY.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0195_jpg.rf.a32G5lhKcIWAqbCzIb2K.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0199_jpg.rf.7pyDR3Un5sNh0IKyzhzv.jpg",
+      "blurred": true,
+      "blur_radius": 2.49
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0213_jpg.rf.hnuYfL6KO4cxbbr4xq4p.jpg",
+      "blurred": true,
+      "blur_radius": 3.69
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0227_jpg.rf.HQ0JrGiY6BxYPjYvY7oD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0235_jpg.rf.eC71M1wBqXOYdyKwdtBB.jpg",
+      "blurred": true,
+      "blur_radius": 2.67
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0253_jpg.rf.oJLBSywc9qfkksytT8sm.jpg",
+      "blurred": true,
+      "blur_radius": 3.37
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0263_jpg.rf.kIkM9catAtp6UPS0nNeL.jpg",
+      "blurred": true,
+      "blur_radius": 2.09
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0273_jpg.rf.AHNtwIUGSAgaNh7NooOX.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0287_jpg.rf.YgjNr7CPP8tHSIiucPfS.jpg",
+      "blurred": true,
+      "blur_radius": 3.29
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0293_jpg.rf.zy6xcS6dgETdyApNM8xN.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0305_jpg.rf.uo7ubMza9fTwklxQnu2H.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0313_jpg.rf.OwjwxmQaLJEAnjti775c.jpg",
+      "blurred": true,
+      "blur_radius": 5.56
+    },
+    {
+      "path": "ice ice/valid/IMG-20241009-WA0317_jpg.rf.lOOkGUEW3v7wa1gYCpJC.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092501_jpg.rf.83VTJzzXDssQDKReLDmD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092522_jpg.rf.LYBU1yPA25ZXkxzQR3XJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092527_jpg.rf.pRVSUTU68f3jSsEyPDpo.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092559_jpg.rf.ybpuGAbJjMRA2QZlWz43.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092727_jpg.rf.kNW0ipsu4VPcuC15ARvG.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092824_jpg.rf.g9jyH6JD4K0canEyw5tC.jpg",
+      "blurred": true,
+      "blur_radius": 2.86
+    },
+    {
+      "path": "ice ice/valid/IMG20241010092848_jpg.rf.1athow9K5n13eKM8sdwR.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095532_jpg.rf.OPYZkCaxCYPLBHoZPZO6.jpg",
+      "blurred": true,
+      "blur_radius": 4.81
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095650_jpg.rf.V5l8nYYS0dlWKeLdxCG5.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095700_jpg.rf.xmPaIBPhCbWO7ewhBAmA.jpg",
+      "blurred": true,
+      "blur_radius": 3.58
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095734_jpg.rf.4we94v5lSrEVXDbNj0iS.jpg",
+      "blurred": true,
+      "blur_radius": 3.46
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095740_jpg.rf.4TJXDSDQZnmOC1Y9JguO.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095747_jpg.rf.Qv9QWgZxOzgoESfAQQPk.jpg",
+      "blurred": true,
+      "blur_radius": 5.46
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095749_jpg.rf.L8tRTlWk6V5VKvOAevY7.jpg",
+      "blurred": true,
+      "blur_radius": 5.6
+    },
+    {
+      "path": "ice ice/valid/IMG20241010095756_jpg.rf.w5sy5XnithGa7CpEWJCI.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241010100237_jpg.rf.f95xuxNreEHLy4Ddi2k9.jpg",
+      "blurred": true,
+      "blur_radius": 3.95
+    },
+    {
+      "path": "ice ice/valid/IMG20241016172126_jpg.rf.WS4cR9NRmo0MVcKVTlGh.jpg",
+      "blurred": true,
+      "blur_radius": 4.56
+    },
+    {
+      "path": "ice ice/valid/IMG20241016172158_jpg.rf.jiW2tUrK49Hn5aKJGBqz.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/IMG20241016172215_jpg.rf.YwuDX3QVLXDuTe2iZQHr.jpg",
+      "blurred": true,
+      "blur_radius": 2.45
+    },
+    {
+      "path": "ice ice/valid/IMG20241016172231_jpg.rf.n9HnPcsyfk3dqKncT0xR.jpg",
+      "blurred": true,
+      "blur_radius": 2.98
+    },
+    {
+      "path": "ice ice/valid/IMG20241016172234_jpg.rf.jdSFiplnyvQGZNJzayeX.jpg",
+      "blurred": true,
+      "blur_radius": 5.5
+    },
+    {
+      "path": "ice ice/valid/IMG20241016172651_jpg.rf.sGSyLDcWndLsUeD3yFrR.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/Kappaphycus-alvarezii-Eucheuma-cottonii_png_jpg.rf.oNuNtd0vV2uUeIG6RkRp.jpg",
+      "blurred": true,
+      "blur_radius": 3.86
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-120811_png_jpg.rf.8sGmVFOMfF3RBFUBvOaN.jpg",
+      "blurred": true,
+      "blur_radius": 3.8
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-124551_png_jpg.rf.1l9Tt0yCr0Hs8HFIMSvs.jpg",
+      "blurred": true,
+      "blur_radius": 5.75
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-124748_png_jpg.rf.Ad0Kd4hqBGU6MUUAsPOu.jpg",
+      "blurred": true,
+      "blur_radius": 1.48
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-124840_png_jpg.rf.QDjHUZdOD5VjV6NI0hQG.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-125147_png_jpg.rf.5IdAdGbTSuFjAeWWYBXp.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-130106_png_jpg.rf.Lmkw9Yz21HMxNVEAc6KS.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-130542_png_jpg.rf.tORHv1OlqjU0dqFu8ywi.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-130835_png_jpg.rf.cBNUrFFjrG51z20s48mJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-131651_png_jpg.rf.ZcY9EseTkg1Ub7MovADb.jpg",
+      "blurred": true,
+      "blur_radius": 3.42
+    },
+    {
+      "path": "ice ice/valid/Screenshot-2024-09-12-131909_png_jpg.rf.MLpOFPVoKz5196TVoLYX.jpg",
+      "blurred": true,
+      "blur_radius": 3.06
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-09-12-at-09-00-31_30a9f64e_jpg.rf.l4NkZX8R7M8SSxsdpFE8.jpg",
+      "blurred": true,
+      "blur_radius": 5.06
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-10-09-at-17-06-39_64b5321b_jpg.rf.32AiATducPLZpSdiE8Db.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-10-16-at-09-59-48_be2bcd5b_jpg.rf.G3B7yOHOq9DLFqu8eQzQ.jpg",
+      "blurred": true,
+      "blur_radius": 2.46
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-10-16-at-09-59-52_1df5b194_jpg.rf.p25I53fqzQZsOs3HhWCc.jpg",
+      "blurred": true,
+      "blur_radius": 5.47
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-10-16-at-09-59-57_fab11d25_jpg.rf.ZdhDlZzWIU8AFBAm8VOO.jpg",
+      "blurred": true,
+      "blur_radius": 2.17
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-10-16-at-09-59-58_1ddde84c_jpg.rf.ydxjFNSJadqWEtIkFo0y.jpg",
+      "blurred": true,
+      "blur_radius": 2.57
+    },
+    {
+      "path": "ice ice/valid/WhatsApp-Image-2024-10-16-at-10-00-00_f4f70ddf_jpg.rf.JBtsaxAUiaYeLpfZggji.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/10.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/2.jpg",
+      "blurred": true,
+      "blur_radius": 3.35
+    },
+    {
+      "path": "ice ice/test/3.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/4.jpg",
+      "blurred": true,
+      "blur_radius": 4.39
+    },
+    {
+      "path": "ice ice/test/5.jpg",
+      "blurred": true,
+      "blur_radius": 3.0
+    },
+    {
+      "path": "ice ice/test/6.jpg",
+      "blurred": true,
+      "blur_radius": 3.06
+    },
+    {
+      "path": "ice ice/test/7.jpg",
+      "blurred": true,
+      "blur_radius": 4.69
+    },
+    {
+      "path": "ice ice/test/8.jpg",
+      "blurred": true,
+      "blur_radius": 2.14
+    },
+    {
+      "path": "ice ice/test/9.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0051_jpg.rf.zzOo7IzXZLE3bq3sX8hf.jpg",
+      "blurred": true,
+      "blur_radius": 3.59
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0185_jpg.rf.4oJsvKLJvcgfYYqSZrWA.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0197_jpg.rf.XIOWk7wUTonheXudCBiD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0229_jpg.rf.dePyRgvacxJ4AWMLDuMd.jpg",
+      "blurred": true,
+      "blur_radius": 5.61
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0259_jpg.rf.Ed0pyZp7Q7iq2hylTRuU.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0283_jpg.rf.IiCdxCQXcyI038AKQjLh.jpg",
+      "blurred": true,
+      "blur_radius": 5.6
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0289_jpg.rf.XPuCdv6Gv4hRDsi4euMH.jpg",
+      "blurred": true,
+      "blur_radius": 2.15
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0295_jpg.rf.G32BP8CE7C9COjUKIiFL.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG-20241009-WA0321_jpg.rf.XSW0cWX8ZdnVDBJFHztI.jpg",
+      "blurred": true,
+      "blur_radius": 2.67
+    },
+    {
+      "path": "ice ice/test/IMG20241010092711_jpg.rf.TmS0XmBmdr8JdTbStQ8v.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG20241010092739_jpg.rf.TElwQ2ixIkLUZIuAFwJw.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG20241010092817_jpg.rf.I6IxY4nJ9FU6DQvYJhxo.jpg",
+      "blurred": true,
+      "blur_radius": 2.86
+    },
+    {
+      "path": "ice ice/test/IMG20241010095432_jpg.rf.uFjeL6aYJOgI0304Ek6v.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG20241010095657_jpg.rf.gxwayWHLSX6e87Pml621.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG20241016172057_jpg.rf.m45MuLxjynLHwjiP9Dlk.jpg",
+      "blurred": true,
+      "blur_radius": 5.37
+    },
+    {
+      "path": "ice ice/test/IMG20241016172104_jpg.rf.XxcoMkyuxDdhGbwRXrhB.jpg",
+      "blurred": true,
+      "blur_radius": 5.17
+    },
+    {
+      "path": "ice ice/test/IMG20241016172117_jpg.rf.Xlf7yRJJ72Z4XD3vnHPH.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG20241016172319_jpg.rf.VxRty85lJ6LvcrFTOIHx.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/IMG20241016172428_jpg.rf.B63UCr8I1VfNSGBcOcmq.jpg",
+      "blurred": true,
+      "blur_radius": 5.16
+    },
+    {
+      "path": "ice ice/test/IMG20241016172439_jpg.rf.izc3IXbCLhTUURt6GDoC.jpg",
+      "blurred": true,
+      "blur_radius": 3.26
+    },
+    {
+      "path": "ice ice/test/Screenshot-2024-09-12-114728_png_jpg.rf.BKZgaqGRSGaOHhV1clea.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/Screenshot-2024-09-12-120523_png_jpg.rf.lo0mGlPUtJJXJK2qx2u2.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/Screenshot-2024-09-12-214618_png_jpg.rf.X2hJodW0nyMmxFwDxDHW.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/Screenshot-2024-09-12-215204_png_jpg.rf.UYVbV4GiLDV3nFaOAtYH.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/test/WhatsApp-Image-2024-10-09-at-16-30-21_6daeb7b0_jpg.rf.LEQfbS4H1VeyqmV4AIFm.jpg",
+      "blurred": true,
+      "blur_radius": 2.46
+    },
+    {
+      "path": "ice ice/test/WhatsApp-Image-2024-10-09-at-17-06-25_75a296d5_jpg.rf.CcyPF1HoDIiy8innuGLI.jpg",
+      "blurred": true,
+      "blur_radius": 4.99
+    },
+    {
+      "path": "ice ice/test/WhatsApp-Image-2024-10-09-at-17-06-32_79ae0acc_jpg.rf.aZD73iO1swQqFiSoc0fs.jpg",
+      "blurred": true,
+      "blur_radius": 4.51
+    },
+    {
+      "path": "ice ice/test/WhatsApp-Image-2024-10-09-at-17-06-34_f5978432_jpg.rf.aW2NJAUCrnRHFwEF1opv.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/1.jpg",
+      "blurred": true,
+      "blur_radius": 3.17
+    },
+    {
+      "path": "ice ice/train/10.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/11.jpg",
+      "blurred": true,
+      "blur_radius": 6.11
+    },
+    {
+      "path": "ice ice/train/12.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/13.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/14.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/15.jpg",
+      "blurred": true,
+      "blur_radius": 3.98
+    },
+    {
+      "path": "ice ice/train/2.jpg",
+      "blurred": true,
+      "blur_radius": 5.56
+    },
+    {
+      "path": "ice ice/train/3.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/4.jpg",
+      "blurred": true,
+      "blur_radius": 2.3
+    },
+    {
+      "path": "ice ice/train/5.jpg",
+      "blurred": true,
+      "blur_radius": 5.24
+    },
+    {
+      "path": "ice ice/train/6.jpg",
+      "blurred": true,
+      "blur_radius": 2.58
+    },
+    {
+      "path": "ice ice/train/7.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/8.jpg",
+      "blurred": true,
+      "blur_radius": 2.04
+    },
+    {
+      "path": "ice ice/train/9.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0040_jpg.rf.oKbBCUbqRJ22XOHN0YCd.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0043_jpg.rf.ictvAMDuPqll18HB8Vg9.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0045_jpg.rf.vRew9SPj5T2xBq1tfngG.jpg",
+      "blurred": true,
+      "blur_radius": 3.5
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0046_jpg.rf.cApicVcSSaZX7MG9N4At.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0053_jpg.rf.RsA1vyMlJ5Kq1GMcsXiy.jpg",
+      "blurred": true,
+      "blur_radius": 3.82
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0055_jpg.rf.teUBliBp5OG0zt8g8Cze.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0059_jpg.rf.0YSMlkp3vMGNcChSZsxw.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0061_jpg.rf.dNOUT0P0JSSoByrCuLLi.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0065_jpg.rf.v0qgdDknTOFkSTJrrd9v.jpg",
+      "blurred": true,
+      "blur_radius": 4.89
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0069_jpg.rf.43Ty2DoZ23zMKBhpVLpH.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0071_jpg.rf.bjptbNSy1XPfGqVRD78S.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0075_jpg.rf.g508M7TrUUplsszrlJAu.jpg",
+      "blurred": true,
+      "blur_radius": 4.44
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0077_jpg.rf.JDdvABJIRy3eYsJfIr3H.jpg",
+      "blurred": true,
+      "blur_radius": 5.39
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0079_jpg.rf.ccZiwAa0APBru6BhnJP1.jpg",
+      "blurred": true,
+      "blur_radius": 4.63
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0081_jpg.rf.7HUFgr8j6Cdfc0XZtO41.jpg",
+      "blurred": true,
+      "blur_radius": 2.61
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0085_jpg.rf.lWtY0ebTkQ3n6GU4SzxM.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0095_jpg.rf.HmmrFkownSKwnG0aXIcA.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0101_jpg.rf.aHj50w5FldicUilWTyd7.jpg",
+      "blurred": true,
+      "blur_radius": 3.49
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0105_jpg.rf.cuBy4FKrkqP7d8AR8CwI.jpg",
+      "blurred": true,
+      "blur_radius": 5.42
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0109_jpg.rf.fgQbEtzz1kGS0FFKScvt.jpg",
+      "blurred": true,
+      "blur_radius": 5.32
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0111_jpg.rf.5sPjrGsyennOhVKXUlqe.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0115_jpg.rf.tsulVzJjzWpnYe0dxtDg.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0117_jpg.rf.wqlkPPcFA1yh1TjPO2gs.jpg",
+      "blurred": true,
+      "blur_radius": 4.21
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0119_jpg.rf.01hujPmqybXHSM7mmBNb.jpg",
+      "blurred": true,
+      "blur_radius": 4.36
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0125_jpg.rf.YNbq42l6oc9dYJgo67wz.jpg",
+      "blurred": true,
+      "blur_radius": 2.34
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0127_jpg.rf.O8kJKGf4JQbcRiECZJGG.jpg",
+      "blurred": true,
+      "blur_radius": 5.24
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0135_jpg.rf.QKqxPoHaWzcrsC4RYfO7.jpg",
+      "blurred": true,
+      "blur_radius": 3.77
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0137_jpg.rf.Gwg4DBzyC1Aoolq4vrlI.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0143_jpg.rf.WihNAWHFY3wFmbB0vska.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0149_jpg.rf.mFgCs7BYpiAGzApuYmy8.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0151_jpg.rf.XrWEAZyBvGa2YQrFsmoe.jpg",
+      "blurred": true,
+      "blur_radius": 4.37
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0153_jpg.rf.BirGQJGomlTpSsIpBtPc.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0157_jpg.rf.IzCNId7WC5BKWjpq8f01.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0159_jpg.rf.5rqMLs1peItdQdNRMqy2.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0161_jpg.rf.s80RBUfQfNxEkT7QxFU5.jpg",
+      "blurred": true,
+      "blur_radius": 3.09
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0163_jpg.rf.fTRY6BGRFotDe8RWYCiW.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0165_jpg.rf.Yk1SKsCuvPFu5DS5hzwX.jpg",
+      "blurred": true,
+      "blur_radius": 4.48
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0167_jpg.rf.4K3CiiwZp6j50TacQR4B.jpg",
+      "blurred": true,
+      "blur_radius": 3.95
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0169_jpg.rf.UJscYmBRAV2Cef2ka41n.jpg",
+      "blurred": true,
+      "blur_radius": 2.59
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0170_jpg.rf.SIFmO1kgE1791sbdLf95.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0171_jpg.rf.U2mQ3A9UIkGAeRP6goO3.jpg",
+      "blurred": true,
+      "blur_radius": 4.36
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0172_jpg.rf.2h2fbXTmNL7W6bA8gASo.jpg",
+      "blurred": true,
+      "blur_radius": 3.29
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0174_jpg.rf.J5mttGxCQerbNR8RZRAZ.jpg",
+      "blurred": true,
+      "blur_radius": 4.67
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0175_jpg.rf.i31fEl2zChF6YWyuIqoh.jpg",
+      "blurred": true,
+      "blur_radius": 2.52
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0176_jpg.rf.5XGAO9sdizdaYekqr1UZ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0177_jpg.rf.T4UvJzfJQyKAx6xrnC08.jpg",
+      "blurred": true,
+      "blur_radius": 4.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0178_jpg.rf.6eOlLJn7exSrb1skUWz7.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0180_jpg.rf.3vC2Ff9SchNc4GVgKuah.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0181_jpg.rf.b0UAwMJ1sPAAxs8NTJZz.jpg",
+      "blurred": true,
+      "blur_radius": 3.39
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0183_jpg.rf.YohEn7YJcNtZ8n7lB9ep.jpg",
+      "blurred": true,
+      "blur_radius": 4.99
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0186_jpg.rf.dC0HqoylxSGFAiBgiKkc.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0188_jpg.rf.omImNMPGxeDxWEupgggb.jpg",
+      "blurred": true,
+      "blur_radius": 3.01
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0189_jpg.rf.jx1Wzntx1mpI343yrtao.jpg",
+      "blurred": true,
+      "blur_radius": 2.66
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0191_jpg.rf.cpACfPxrCUmJcdJbHNt3.jpg",
+      "blurred": true,
+      "blur_radius": 4.81
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0193_jpg.rf.j1G1Ua2juklNduQaPY1r.jpg",
+      "blurred": true,
+      "blur_radius": 4.14
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0196_jpg.rf.tAWJrol7y2Y7efa7s9uQ.jpg",
+      "blurred": true,
+      "blur_radius": 3.08
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0203_jpg.rf.RYvwBTR3ricipvpvgIFD.jpg",
+      "blurred": true,
+      "blur_radius": 3.53
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0205_jpg.rf.Rokv6DiIpRPsy7BdRsbn.jpg",
+      "blurred": true,
+      "blur_radius": 4.4
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0207_jpg.rf.hTlN2BJBK7hnXnt8fJWU.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0211_jpg.rf.UdGoDd5EMDiDiqhbQ5ZL.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0215_jpg.rf.IDiBQGSRVrlnZqCefKBb.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0217_jpg.rf.A4eEFIzKKHPlv3INHmAS.jpg",
+      "blurred": true,
+      "blur_radius": 3.79
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0219_jpg.rf.Uwthkla0Td1KnAs20Y7E.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0221_jpg.rf.vk6dCSwR8K4OewrrGI6a.jpg",
+      "blurred": true,
+      "blur_radius": 4.84
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0223_jpg.rf.AAiw1ePeJprYicnnc8dD.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0231_jpg.rf.pzfDzmJVYZBj6bZD5qCe.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0233_jpg.rf.nNvSoJQVzBsJu6z6FjQp.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0237_jpg.rf.PcaiBu81WFNw8NOGTBlS.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0241_jpg.rf.ufeK0ZNTxMQCREcwbe7s.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0243_jpg.rf.8dBHe7tM9mA8G2jH8vwL.jpg",
+      "blurred": true,
+      "blur_radius": 5.47
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0245_jpg.rf.I3GXnlqPw32AZxsiMUSH.jpg",
+      "blurred": true,
+      "blur_radius": 4.63
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0247_jpg.rf.Ru3TIaYOoZIpx1dA3quk.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0249_jpg.rf.ZK49AxBelh6OU6MPaw8O.jpg",
+      "blurred": true,
+      "blur_radius": 4.34
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0251_jpg.rf.SLPNPEwUHEqeZwUl0ocR.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0255_jpg.rf.qyhMxRnTVsoQgG79iJIK.jpg",
+      "blurred": true,
+      "blur_radius": 2.93
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0257_jpg.rf.04Q4piDIhvYQhbFoNPoc.jpg",
+      "blurred": true,
+      "blur_radius": 4.36
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0261_jpg.rf.h7mlVpcUgvFOe1LyjKmU.jpg",
+      "blurred": true,
+      "blur_radius": 4.19
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0265_jpg.rf.nKVCwOfKhPWRKPiQtSgm.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0267_jpg.rf.0EpiyldKD3hrc2BZClXv.jpg",
+      "blurred": true,
+      "blur_radius": 2.22
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0271_jpg.rf.2hDl2FDxynjp4sDa9Rx8.jpg",
+      "blurred": true,
+      "blur_radius": 5.44
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0275_jpg.rf.heqGl8syCLkMU1z05ZWd.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0279_jpg.rf.Xvn3coGjqDW4kGb8dXDl.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0281_jpg.rf.Bd9MNBDGY92tWOzCjZED.jpg",
+      "blurred": true,
+      "blur_radius": 2.75
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0285_jpg.rf.h0KYCUtrlkz1kyQ1CX4l.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0291_jpg.rf.whwfRiMCpZIfx7VkwfpB.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0299_jpg.rf.Rq4SL8x4W5xoD3imep6p.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0301_jpg.rf.IFqiYjnct0UAtR8x4pCA.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0303_jpg.rf.SH7CaDIyiNbb9j3dZTkW.jpg",
+      "blurred": true,
+      "blur_radius": 3.03
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0307_jpg.rf.FFXI3zVzOlK8raWhasLz.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0309_jpg.rf.JHfb0VK4kj9IFm9V8LSk.jpg",
+      "blurred": true,
+      "blur_radius": 4.89
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0311_jpg.rf.HPQ2CuQAvtqMCA83aegy.jpg",
+      "blurred": true,
+      "blur_radius": 2.42
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0315_jpg.rf.Ld0ektG6RDcTXujczi9k.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0319_jpg.rf.f64nOYCCN9gDhRtW3cVx.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0323_jpg.rf.cxZvoFl9V298qZHoJpvn.jpg",
+      "blurred": true,
+      "blur_radius": 2.05
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0325_jpg.rf.3XKAmOrQMGMGr3E1gp3D.jpg",
+      "blurred": true,
+      "blur_radius": 5.56
+    },
+    {
+      "path": "ice ice/train/IMG-20241009-WA0327_jpg.rf.NI7cPCoVSf9GSGY2oI0o.jpg",
+      "blurred": true,
+      "blur_radius": 4.16
+    },
+    {
+      "path": "ice ice/train/IMG20241010092441_jpg.rf.unWO4fVNrunScc3Qtcoj.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092442_jpg.rf.VU8KGBrJbIdrqyeB1PRZ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092445_jpg.rf.2EaZq9iRfVZx6KkSzpiS.jpg",
+      "blurred": true,
+      "blur_radius": 4.75
+    },
+    {
+      "path": "ice ice/train/IMG20241010092448_jpg.rf.jSBKODDLPmYm2oQoOUrG.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092450_jpg.rf.dpOpQjO2ea9T8XdfbIo0.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092457_jpg.rf.nnGKfGc5t0dHMI8zymn7.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092500_jpg.rf.n6No1xSCkQLzL55L39o7.jpg",
+      "blurred": true,
+      "blur_radius": 3.58
+    },
+    {
+      "path": "ice ice/train/IMG20241010092508_jpg.rf.rOG8VYieEGy9nG90m8RF.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092516_jpg.rf.D4rfxHjgGLOvidD6EhoA.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092518_jpg.rf.r36oHE9aOIJc3BsEpywp.jpg",
+      "blurred": true,
+      "blur_radius": 5.19
+    },
+    {
+      "path": "ice ice/train/IMG20241010092543_jpg.rf.N3wKKDZwScF6hCmB5r5J.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092548_jpg.rf.XMm0rmRxWQchZfyDZs5g.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092552_jpg.rf.YyGZsXWsOl6vufb2sSK5.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092602_jpg.rf.f2zWg6iJ4x6PJYizMUMr.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092622_jpg.rf.dMcOsmdlwv5TztF7Du4Q.jpg",
+      "blurred": true,
+      "blur_radius": 4.03
+    },
+    {
+      "path": "ice ice/train/IMG20241010092627_jpg.rf.ogQ8bRtPbuDi3dafV4uz.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092632_jpg.rf.xsTw9cwIxxnheqq8nhTu.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092635_jpg.rf.ihQUkPPuahBlAfj5WG1h.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092641_jpg.rf.TdV3ZwjFL2dghvFFkRtp.jpg",
+      "blurred": true,
+      "blur_radius": 4.56
+    },
+    {
+      "path": "ice ice/train/IMG20241010092708_jpg.rf.JQ4FVX59Sn9DFdTHVSrU.jpg",
+      "blurred": true,
+      "blur_radius": 3.31
+    },
+    {
+      "path": "ice ice/train/IMG20241010092718_jpg.rf.SDQrDf58VNnqOls4IBdK.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092720_jpg.rf.vTB96goYH6cO3QWrFnME.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092738_jpg.rf.Eq9KblsVjuCvVc03X3eJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092741_jpg.rf.b6FlfNdCxXefSnZeNaSY.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092750_jpg.rf.OwrVrWI9jf8WVqyMOxoh.jpg",
+      "blurred": true,
+      "blur_radius": 3.37
+    },
+    {
+      "path": "ice ice/train/IMG20241010092803_jpg.rf.7S4yRCNH6aEQdQj6WnRE.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092835_jpg.rf.H35vTRRLBi9MvZmTE2CB.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092838_jpg.rf.3nbVi5AqbVgU18TRLF5k.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010092851_jpg.rf.AOJ4fEyDQJmJcGQvx2vu.jpg",
+      "blurred": true,
+      "blur_radius": 2.42
+    },
+    {
+      "path": "ice ice/train/IMG20241010092900_jpg.rf.nwNbyFeA1X4usjnjZ1tG.jpg",
+      "blurred": true,
+      "blur_radius": 4.45
+    },
+    {
+      "path": "ice ice/train/IMG20241010092906_jpg.rf.T8YA3cSAfhi2X344CPqh.jpg",
+      "blurred": true,
+      "blur_radius": 5.21
+    },
+    {
+      "path": "ice ice/train/IMG20241010092908_jpg.rf.I0PTEkB7FooboqwFm5Ap.jpg",
+      "blurred": true,
+      "blur_radius": 5.09
+    },
+    {
+      "path": "ice ice/train/IMG20241010095448_jpg.rf.ZN4qbufcCb3k0CHm31VN.jpg",
+      "blurred": true,
+      "blur_radius": 5.19
+    },
+    {
+      "path": "ice ice/train/IMG20241010095453_jpg.rf.24JoU3PwJj4BBMnbZjLJ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095512_jpg.rf.dJHty7WkydMCO5ypxR0Q.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095516_jpg.rf.46ZCF6mDYoj4uq5kJtBQ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095530_jpg.rf.ClKPzp3z01bug6yA1C0F.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095536_jpg.rf.L3ppSXmr3Go8FJ7DzH9C.jpg",
+      "blurred": true,
+      "blur_radius": 4.79
+    },
+    {
+      "path": "ice ice/train/IMG20241010095539_jpg.rf.wDNN5xDUF7Mjhhk2W0n9.jpg",
+      "blurred": true,
+      "blur_radius": 2.69
+    },
+    {
+      "path": "ice ice/train/IMG20241010095625_jpg.rf.eNyn3tpqJy3aBwAYOq0N.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095634_jpg.rf.AE6zXp3XhNhHxjkNCnaZ.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095641_jpg.rf.P646nfmjZbs0png7rNvT.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095703_jpg.rf.P2DjFPOlZIEeTX5K37B6.jpg",
+      "blurred": true,
+      "blur_radius": 4.88
+    },
+    {
+      "path": "ice ice/train/IMG20241010095708_jpg.rf.6U7m11C33qAwI34MmwBm.jpg",
+      "blurred": true,
+      "blur_radius": 4.48
+    },
+    {
+      "path": "ice ice/train/IMG20241010095718_jpg.rf.A1I7LlLv0z8rdh72v0nl.jpg",
+      "blurred": true,
+      "blur_radius": 3.61
+    },
+    {
+      "path": "ice ice/train/IMG20241010095730_jpg.rf.fXrktjWJSLMbPSy47k3q.jpg",
+      "blurred": true,
+      "blur_radius": 3.96
+    },
+    {
+      "path": "ice ice/train/IMG20241010095754_jpg.rf.X2IEL8pm7gticreu0H23.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241010095803_jpg.rf.En6T60MbFTbCWf8vkaBZ.jpg",
+      "blurred": true,
+      "blur_radius": 5.31
+    },
+    {
+      "path": "ice ice/train/IMG20241010100244_jpg.rf.LiKXEEMcM3gOBlSB7QYN.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172012_jpg.rf.Zkw45s6np0mGaNnsSDxB.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172022_jpg.rf.mleYQbV0nMsRuLCKeVcP.jpg",
+      "blurred": true,
+      "blur_radius": 2.33
+    },
+    {
+      "path": "ice ice/train/IMG20241016172033_jpg.rf.EeexzdNj2y0x95rgFqtj.jpg",
+      "blurred": true,
+      "blur_radius": 2.37
+    },
+    {
+      "path": "ice ice/train/IMG20241016172038_jpg.rf.weN6K3tS2lOB3N6lDEpV.jpg",
+      "blurred": true,
+      "blur_radius": 3.61
+    },
+    {
+      "path": "ice ice/train/IMG20241016172052_jpg.rf.c4fRs5U55g3lFH6Sis19.jpg",
+      "blurred": true,
+      "blur_radius": 3.86
+    },
+    {
+      "path": "ice ice/train/IMG20241016172112_jpg.rf.kVBw3pigYnujY4grUox0.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172146_jpg.rf.thrzCQ6aEQGz35jvMzRp.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172151_jpg.rf.pnF341NeduTWMXxzBExF.jpg",
+      "blurred": true,
+      "blur_radius": 3.96
+    },
+    {
+      "path": "ice ice/train/IMG20241016172203_jpg.rf.4cIE6L7w2HpvsMJrzS5O.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172210_jpg.rf.MZiaiJEqWaQFiEo4qI0l.jpg",
+      "blurred": true,
+      "blur_radius": 3.06
+    },
+    {
+      "path": "ice ice/train/IMG20241016172225_jpg.rf.6jTtS01S48EIPJTZwauj.jpg",
+      "blurred": true,
+      "blur_radius": 4.7
+    },
+    {
+      "path": "ice ice/train/IMG20241016172248_jpg.rf.45KWgoRO9f7l8KntJuUX.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172250_jpg.rf.VJl3MT0SYRSfAO3cli8S.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172252_jpg.rf.mF2uHy3iioXRxDVoK1y1.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172322_jpg.rf.AEc6nbqPrvHpiQcF0s92.jpg",
+      "blurred": true,
+      "blur_radius": 3.53
+    },
+    {
+      "path": "ice ice/train/IMG20241016172355_jpg.rf.bebtz0u5uoapTQaxxqWE.jpg",
+      "blurred": true,
+      "blur_radius": 4.92
+    },
+    {
+      "path": "ice ice/train/IMG20241016172359_jpg.rf.6DxZryaSVRGZFKlxfUNj.jpg",
+      "blurred": true,
+      "blur_radius": 5.21
+    },
+    {
+      "path": "ice ice/train/IMG20241016172403_jpg.rf.Y0PvNdiMFUBz468X2NRY.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172405_jpg.rf.S28Ee6uywpVlWVipVDUc.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172417_jpg.rf.5phF0Q7rPVIrW6Jp3wgh.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172419_jpg.rf.WgEPwf6gveXuUmQn2Brc.jpg",
+      "blurred": true,
+      "blur_radius": 3.47
+    },
+    {
+      "path": "ice ice/train/IMG20241016172431_jpg.rf.cAQyxzipHwLZyNwJ7RyD.jpg",
+      "blurred": true,
+      "blur_radius": 5.27
+    },
+    {
+      "path": "ice ice/train/IMG20241016172437_jpg.rf.3Me1iIUNEE95dCxIS96k.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172630_jpg.rf.ihwRx4BAM55VPiD9uuXA.jpg",
+      "blurred": true,
+      "blur_radius": 3.54
+    },
+    {
+      "path": "ice ice/train/IMG20241016172638_jpg.rf.cSPFFGbj40Ym2cCT4YKC.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172642_jpg.rf.sqPZg7yjC4HAsfCBZFri.jpg",
+      "blurred": true,
+      "blur_radius": 2.47
+    },
+    {
+      "path": "ice ice/train/IMG20241016172704_jpg.rf.BOi9jwGG0dSdlGbR7REH.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172707_jpg.rf.hAetxbsyAW11UqU9d2Us.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/IMG20241016172710_jpg.rf.SBkqOR3ajzalG0Oaw4mN.jpg",
+      "blurred": true,
+      "blur_radius": 5.1
+    },
+    {
+      "path": "ice ice/train/IMG20241016172713_jpg.rf.KoK1b3jw46kPtLozHHPJ.jpg",
+      "blurred": true,
+      "blur_radius": 3.56
+    },
+    {
+      "path": "ice ice/train/IMG20241016172719_jpg.rf.2WzNERTl6affsPQMOUPN.jpg",
+      "blurred": true,
+      "blur_radius": 4.69
+    },
+    {
+      "path": "ice ice/train/IMG20241016172724_jpg.rf.oTkiZVfCUYucGwldfYJr.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-114632_png_jpg.rf.yOPLbQYC52cE89mB5ln5.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-114656_png_jpg.rf.TEwxSnGQlcrIzjNUS4KC.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-114758_png_jpg.rf.JZwHsqa4fjArfo0kJJTS.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-120754_png_jpg.rf.wolVk8iZ2qQtdCdm1TZ8.jpg",
+      "blurred": true,
+      "blur_radius": 4.87
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-123341_png_jpg.rf.8Z7H4gEBnEFk9hyz5llW.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-123914_png_jpg.rf.6FujkM4lL9kwFDX1zk2L.jpg",
+      "blurred": true,
+      "blur_radius": 2.89
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-124343_png_jpg.rf.9NsFykQ6uhSXfKwZaTPA.jpg",
+      "blurred": true,
+      "blur_radius": 5.23
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-124803_png_jpg.rf.uw2IVawzu7XStJFPrlX0.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-125228_png_jpg.rf.4jG0dVjGMEP5xjpJYEaT.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-125232_png_jpg.rf.08L2nHZFOQtOfLFBc3AM.jpg",
+      "blurred": true,
+      "blur_radius": 3.49
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-125402_png_jpg.rf.7tknxHYSI8OfsuQ2J9EV.jpg",
+      "blurred": true,
+      "blur_radius": 2.75
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-125457_png_jpg.rf.XAZvondrcdFTStaLm6CV.jpg",
+      "blurred": true,
+      "blur_radius": 3.63
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-125858_png_jpg.rf.qvOeJqL3uPxlwxpGZKg6.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-130043_png_jpg.rf.pKeiQflAdDzxbyM3WVej.jpg",
+      "blurred": true,
+      "blur_radius": 4.35
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-131431_png_jpg.rf.hEDUBC40SOqAp8VfpeKw.jpg",
+      "blurred": true,
+      "blur_radius": 3.23
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-132021_png_jpg.rf.5KcaPQG1ML4194ycjLts.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-215021_png_jpg.rf.LoET95U4HJCfu8QUDQ8S.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/Screenshot-2024-09-12-220759_png_jpg.rf.iEJg1CbOit8PxYld8QO0.jpg",
+      "blurred": true,
+      "blur_radius": 3.42
+    },
+    {
+      "path": "ice ice/train/Seaweed-farmers-Palawan-July-23-2022-002_png_jpg.rf.a6w3CPCgKm5ZYzSg1M8L.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-09-12-at-09-00-30_0df5bf2f_jpg.rf.VsbPpuSpem5W6FI1DP1q.jpg",
+      "blurred": true,
+      "blur_radius": 5.22
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-09-12-at-09-00-31_57446821_jpg.rf.fKAjX1GiUpb6sKRPhtgc.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-16-30-21_551bd4c5_jpg.rf.QNmpeyeNfdfgDF32S0Qd.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-16-30-22_aa89270e_jpg.rf.Pzjp5KLQlxd524HyWgkH.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-22_7006b65a_jpg.rf.jcLItkHAIrQNZg5ulYxg.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-26_234dd2ab_jpg.rf.H5MNmVTKPIkiI1q2mDSz.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-33_100f69aa_jpg.rf.5OKwH4FXdXb3jSNwqiSQ.jpg",
+      "blurred": true,
+      "blur_radius": 2.17
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-35_5a89531d_jpg.rf.3BPgnLXNcP64l2O6zEQe.jpg",
+      "blurred": true,
+      "blur_radius": 2.44
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-38_c36fa8b5_jpg.rf.IMK34Xj2enp7kdi5G0Pa.jpg",
+      "blurred": true,
+      "blur_radius": 3.31
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-43_542071e0_jpg.rf.B7hlf4AXUgl9bbwGPOpw.jpg",
+      "blurred": true,
+      "blur_radius": 2.44
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-44_e7a6844f_jpg.rf.PBgJubxNwAGNxg5q6JxS.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-49_af1b9acb_jpg.rf.XbX3PXFTuTPRj5pfOXM9.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-51_59a48a3f_jpg.rf.qJY7o8a2wYR432nLMXfS.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-09-at-17-06-53_dba3494b_jpg.rf.E5TCSZINE0dUk1e174op.jpg",
+      "blurred": true,
+      "blur_radius": 2.67
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-48_1b2ce007_jpg.rf.aAhnKTa1HPZ1yhh8WIY8.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-49_e0fe7bf9_jpg.rf.eaSp6NEpxihWmIGD5ggf.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-50_7ea2202f_jpg.rf.KCKcQJbJ8oRQgUsaTetE.jpg",
+      "blurred": true,
+      "blur_radius": 3.43
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-50_d844dd79_jpg.rf.wupGlSNlskeqnk5E69HG.jpg",
+      "blurred": true,
+      "blur_radius": 3.11
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-50_f69783d0_jpg.rf.GcfKb1MWOH5iTSv7HjmM.jpg",
+      "blurred": true,
+      "blur_radius": 3.62
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-51_b3311676_jpg.rf.mOSjVOI201zoBELwrtOW.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-51_f47291bb_jpg.rf.CHXSChmBZd6TubU1CjwM.jpg",
+      "blurred": true,
+      "blur_radius": 2.11
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-52_388507f5_jpg.rf.F93nKBWdjytgtjfSFeC7.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-52_79d28a90_jpg.rf.vbydNYATmve8oqlNBiIm.jpg",
+      "blurred": true,
+      "blur_radius": 4.99
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-53_8f55f3bf_jpg.rf.MawdVLUIT7OeONPTUDKu.jpg",
+      "blurred": true,
+      "blur_radius": 3.33
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-54_85c474c9_jpg.rf.8GuzFZo4gmLYnteznpqr.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-54_b2ce322a_jpg.rf.u3BrbtZpU9bwgrj07wvI.jpg",
+      "blurred": true,
+      "blur_radius": 4.75
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-55_78f8c554_jpg.rf.15i9qDr4Zd69Kxn76QAt.jpg",
+      "blurred": true,
+      "blur_radius": 5.41
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-56_720b13d6_jpg.rf.CGBAmK5PuBudnNfHQprL.jpg",
+      "blurred": true,
+      "blur_radius": 1.95
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-56_e8b970de_jpg.rf.NwqiJAROELB3hG2VI72U.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-57_750ff541_jpg.rf.mmGEdga5lPIhf8GogHdD.jpg",
+      "blurred": true,
+      "blur_radius": 5.17
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-57_ed6b29fc_jpg.rf.dmclZ6USio0l86aNipVz.jpg",
+      "blurred": true,
+      "blur_radius": 4.03
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-58_c37137e3_jpg.rf.pwu2fdFAaL6LiEjTripV.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-59_0ead8f66_jpg.rf.bP7AnHQHxrKQoWs30iuq.jpg",
+      "blurred": true,
+      "blur_radius": 3.66
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-59_88c53682_jpg.rf.XjssM2dbj7kAIGbQ03hz.jpg",
+      "blurred": true,
+      "blur_radius": 5.4
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-09-59-59_fb508c3e_jpg.rf.EpeMQHCRZOVw0vgIskMk.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-10-00-00_7684548e_jpg.rf.GzL76bQgKDjOO7W2aZaG.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    },
+    {
+      "path": "ice ice/train/WhatsApp-Image-2024-10-16-at-10-00-03_8fcd69e8_jpg.rf.HlMeokiCubIawzKjPVcU.jpg",
+      "blurred": true,
+      "blur_radius": 2.99
+    },
+    {
+      "path": "ice ice/train/seaweed-2_jpg.rf.DgFLKX0VZbzTxrhuAlKm.jpg",
+      "blurred": false,
+      "blur_radius": 0.0
+    }
+  ]
+}
